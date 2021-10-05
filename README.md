@@ -1,4 +1,4 @@
-# knightshade
+# Team Knightshade
 Team Members: 
   Eamon Conheady
   Meghan Kennedy
