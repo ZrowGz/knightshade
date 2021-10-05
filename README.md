@@ -1,9 +1,7 @@
 # Team Knightshade
 Team Members: 
   Eamon Conheady
-  
   Meghan Kennedy
-  
   Lisa Bailey
 
 Date: 10/4/2021
