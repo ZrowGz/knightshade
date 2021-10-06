@@ -1,8 +1,8 @@
 # Team Knightshade
 Team Members: 
-  Eamon Conheady
-  Meghan Kennedy
-  Lisa Bailey
+  * Eamon Conheady
+  * Meghan Kennedy
+  * Lisa Bailey
 
 Date: 10/4/2021
 
@@ -20,3 +20,5 @@ Python 3.8
 JupyterLab
 
 ## Libraries used
+  * quandl (quandl.com, crypto historical data): https://github.com/quandl/quandl-python
+  * snscrape (tweet scraper): https://github.com/JustAnotherArchivist/snscrape
