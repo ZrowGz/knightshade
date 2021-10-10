@@ -1,3 +1,8 @@
+Including each contribution to see where merge conflicts exist
+
+---
+ 
+Lisa
 # knightshade
 
 ### tweetsAnalysis.ipynb 
@@ -12,3 +17,33 @@ This is one I can run from VS code and it generates a nice json file. But we pro
 This is where I was going to store a sql database, but I ended up just going from scraper to list, to dataframe. If we want to store the data, we should probably take it into sql for more efficient storage since only 5000 tweets took a megabyte. 5M tweets will be a gb by csv unless we shed all that extra data.
 
 Speaking of that, **do we actually want all of the datapoints I'd pulled out from twitter?** If not, which should I keep?
+
+---
+
+Meghan
+# Team Knightshade
+Team Members: 
+  * Eamon Conheady
+  * Meghan Kennedy
+  * Lisa Bailey
+
+Date: 10/4/2021
+
+## Project Description
+How Tweets about Bitcoin affect the price of Bitcoin.
+
+## Use Case
+
+
+## Acceptance Criteria
+Tweets containing hashtags "Bitcoin
+
+## Program Environment
+Python 3.8
+JupyterLab
+
+## Libraries used
+  * quandl (quandl.com, crypto historical data): https://github.com/quandl/quandl-python
+  * snscrape (tweet scraper): https://github.com/JustAnotherArchivist/snscrape
+
+---
