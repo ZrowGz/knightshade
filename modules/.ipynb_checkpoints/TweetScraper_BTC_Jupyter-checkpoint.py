@@ -4,14 +4,14 @@ from pathlib import Path
 import csv
 import snscrape.modules.twitter as sntwitter
 
-maxTweets = 25000
+maxTweets = 2000
 
-csv_file =  open("../data/btcData.csv", 'w')
+csv_file =  open("../large_data/btcData.csv", 'w')
 
 csv_writer = csv.writer(csv_file, delimiter=",")
 
 # Scrape the tweets
-for i,tweet in enumerate(sntwitter.TwitterHashtagScraper('bitcoin since:2021-01-01 until:2021-09-30').get_items()):
+for i,tweet in enumerate(sntwitter.TwitterHashtagScraper('bitcoin since:2021-05-01 until:2021-09-30').get_items()):
     i = i + 1
     if i>maxTweets:
         break
