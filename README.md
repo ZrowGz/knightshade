@@ -3,9 +3,6 @@
 
 Project to scrape Twitter for tweets containing the `#Bitcoin` hashtag from May 2020 through September 2021. Analyze the data in comparison with price to determine if there is a correlation between various twitter activities and price movements. 
 
----
-
-# Team Knightshade
 Team Members: 
   * Eamon Conheady
   * Meghan Kennedy
