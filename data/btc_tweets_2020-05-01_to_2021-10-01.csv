@@ -1,0 +1,502 @@
+Datetime,Tweet ID,Replies,Retweets,Likes,Hashtags,Tweets
+2021-09-30 23:59:56+00:00,1443727342644314125,0,0,0,"['Bitcoin', 'BTC']",1
+2021-09-30 23:59:56+00:00,1443727341973381121,0,0,0,"['SingleIssueVoter', 'Bitcoin']",1
+2021-09-30 23:59:55+00:00,1443727338169114633,0,0,0,"['chinafud', 'bitcoin', 'cryptocurrency', 'crypto']",1
+2021-09-30 23:59:48+00:00,1443727308448272384,0,0,0,"['SingleIssueVoter', 'Bitcoin']",1
+2021-09-30 23:59:43+00:00,1443727289737523202,0,0,3,"['btc', 'bitcoin', 'crypto']",1
+2021-09-30 23:59:40+00:00,1443727276957487105,0,0,0,"['SingleIssueVoter', 'Bitcoin']",1
+2021-09-30 23:59:40+00:00,1443727274805809154,0,0,0,"['October', 'RT', 'Bitcoin', 'Crypto']",1
+2021-09-30 23:59:32+00:00,1443727244011130885,0,1,6,"['visitorsofimmadegen', 'void', 'nft', 'nftart', 'nftartist', 'nftcollector', 'cryptoart', 'digitalart', 'nftcommunity', 'art', 'crypto', 'ethereum', 'blockchain', 'cryptoartist', 'opensea', 'nftcollectors', 'bitcoin', 'nftdrop', 'nftcollectibles']",1
+2021-09-30 23:59:31+00:00,1443727238361407488,0,1,8,['Bitcoin'],1
+2021-09-30 23:59:27+00:00,1443727219956850691,0,0,0,"['SingleIssueVoter', 'Bitcoin']",1
+2021-09-30 23:59:18+00:00,1443727183298633732,0,0,0,['Bitcoin'],1
+2021-09-30 23:59:14+00:00,1443727169205702664,0,0,0,"['SingleIssueVoter', 'Bitcoin']",1
+2021-09-30 23:59:12+00:00,1443727160712130560,0,0,1,"['Airdrops', 'AirdropDet', 'Bitcoin', 'NextToken', 'BNB', 'NXT', 'Blockchain', 'Crypto']",1
+2021-09-30 23:59:08+00:00,1443727142957748233,0,0,1,"['twitter', 'bitcoin', 'union', 'twitter']",1
+2021-09-30 23:59:06+00:00,1443727135428972545,0,0,1,"['SingleIssueVoter', 'Bitcoin']",1
+2021-09-30 23:59:06+00:00,1443727133566713857,0,0,1,"['blockchain', 'crypto', 'cryptocurrency', 'cryptocurrencies', 'cryptonews', 'cryptotrading', 'trading', 'rixx', 'binance', 'bnb', 'bitcoin', 'btc', 'ethereum', 'eth']",1
+2021-09-30 23:59:05+00:00,1443727130903384069,0,0,2,['BITCOIN'],1
+2021-09-30 23:59:04+00:00,1443727126843232257,0,0,0,"['euro2020', 'uefa', 'btc', 'Japan', 'crypto', 'cryptocurrency', 'bitcoin', 'bonus', 'bet', 'betting', 'soccer', 'basketball', 'tennis', 'live', 'Friday', '仮想通貨', 'ビットコイン', 'カジノ', 'ギャンブル', '暗号通貨']",1
+2021-09-30 23:59:00+00:00,1443727107943710727,0,0,0,"['Bitcoin', 'Candle', 'BullMarket']",1
+2021-09-30 23:58:49+00:00,1443727062045495297,0,0,1,['BITCOIN'],1
+2021-09-30 23:58:47+00:00,1443727053782618117,1,0,0,['bitcoin'],1
+2021-09-30 23:58:42+00:00,1443727033016672256,0,0,0,['Bitcoin'],1
+2021-09-30 23:58:31+00:00,1443726989001572352,2,0,1,['Bitcoin'],1
+2021-09-30 23:58:29+00:00,1443726978763329539,4,0,9,"['Visa', 'CBDC', 'blockchain', 'Bitcoin']",1
+2021-09-30 23:58:28+00:00,1443726972451016705,0,0,0,['Bitcoin'],1
+2021-09-30 23:58:26+00:00,1443726966658506752,1,0,1,['Bitcoin'],1
+2021-09-30 23:58:26+00:00,1443726964271955981,0,0,2,"['DODOUSDT', 'Bitcoin', 'AVAX', 'Binance', 'BNB', 'ETH', 'Solana', 'Tether']",1
+2021-09-30 23:58:22+00:00,1443726950162317312,0,0,0,"['presale', 'blockchain', 'cryptotrading', 'investing', 'cryptocurrency', 'bitcoin', 'trading', 'altcoin']",1
+2021-09-30 23:58:22+00:00,1443726948937703424,0,0,0,"['HODL', 'Bitcoin']",1
+2021-09-30 23:58:13+00:00,1443726911595692042,0,0,0,"['ethereum', 'Bitcoin', 'cryptotwitter']",1
+2021-09-30 23:58:12+00:00,1443726907493818371,0,0,0,['Bitcoin'],1
+2021-09-30 23:58:03+00:00,1443726870957080588,0,0,1,['Bitcoin'],1
+2021-09-30 23:58:03+00:00,1443726870080524292,0,1,0,"['Bitcoin', 'BlockchainHueState', 'BlockHight', 'HexColor', 'd14f18', 'concretecrypto', 'concreteart', 'art', 'crypto', 'colorfortwitter']",1
+2021-09-30 23:58:03+00:00,1443726868683767843,0,0,0,"['bitcoin', 'tictoknextblock']",1
+2021-09-30 23:57:49+00:00,1443726811314151424,0,0,0,"['BTC', 'BCH', 'ETH', 'XRP', 'Bitcoin', 'Ethereum', 'cryptocurrency', 'crypto', 'altcoin', 'Blockchain', 'Ripple']",1
+2021-09-30 23:57:39+00:00,1443726767961751567,0,1,2,"['SurfCity', 'ElSalvador', 'El30Marchamos', 'Bitcoin']",1
+2021-09-30 23:57:37+00:00,1443726761968218112,0,0,3,"['Bitcoin', 'btc', 'Crypto', 'Cryptonews', 'bitcoinnews']",1
+2021-09-30 23:57:36+00:00,1443726756179951657,0,0,1,['bitcoin'],1
+2021-09-30 23:57:31+00:00,1443726734315200515,0,0,0,"['bitcoin', 'crypto', 'cryptocurrency']",1
+2021-09-30 23:57:30+00:00,1443726732289269765,0,0,0,"['bitcoin', 'crypto', 'cryptocurrency']",1
+2021-09-30 23:57:30+00:00,1443726730515173377,0,0,0,"['bitcoin', 'crypto', 'cryptocurrency']",1
+2021-09-30 23:57:29+00:00,1443726728585695232,0,0,0,"['bitcoin', 'crypto', 'cryptocurrency']",1
+2021-09-30 23:57:29+00:00,1443726724903182345,0,0,1,['Bitcoin'],1
+2021-09-30 23:57:25+00:00,1443726711309410306,2,0,0,"['giftsforher', 'bitcoin', 'tumblr', 'twitter', 'facebook', 'instagram', 'dogecoin', 'socialmedia', 'tiktok', 'doge', 'deal', 'gift', 'gifts', 'giftideas', 'shop', 'shopping', 'affiliatemarketing', 'freeshipping']",1
+2021-09-30 23:57:23+00:00,1443726699997249541,1,0,0,"['bitcoin', 'altcoin', 'DeFi', 'yieldfarming', 'crypto', 'staking']",1
+2021-09-30 23:57:17+00:00,1443726676563726339,2,0,0,"['linkedin', 'twitter', 'facebook', 'instagram', 'tiktok', 'socialmedia', 'tumblr', 'dogecoin', 'deal', 'gift', 'gifts', 'giftideas', 'shop', 'giftsforhim', 'shopping', 'affiliatemarketing', 'bitcoin', 'popcorn']",1
+2021-09-30 23:57:17+00:00,1443726675393536002,0,0,2,['Bitcoin'],1
+2021-09-30 23:57:17+00:00,1443726675376812038,2,0,0,"['tumblr', 'twitter', 'facebook', 'instagram', 'dogecoin', 'socialmedia', 'pinterest', 'doge', 'deal', 'gift', 'gifts', 'giftideas', 'shop', 'giftsforhim', 'shopping', 'affiliatemarketing', 'bitcoin', 'freeshipping', 'Amazon']",1
+2021-09-30 23:57:15+00:00,1443726669689335811,1,0,0,"['business', 'businesses', 'tips', 'businessman', 'businesswoman', 'businessgrowth', 'businesstips', 'affiliatemarketing', 'affiliate', 'referral', 'cashback', 'crypto', 'shopping', 'travel', 'business', 'dogecoin', 'bitcoin']",1
+2021-09-30 23:57:15+00:00,1443726668204552195,0,1,1,"['Bitcoin', 'Crypto', 'BSCGem']",1
+2021-09-30 23:57:12+00:00,1443726656351322128,1,0,7,['Bitcoin'],1
+2021-09-30 23:57:08+00:00,1443726636919111707,0,0,2,['Bitcoin'],1
+2021-09-30 23:57:04+00:00,1443726622264217601,0,0,0,['bitcoin'],1
+2021-09-30 23:57:04+00:00,1443726621802840085,0,0,1,"['NFTs', 'cryptocurrency', 'crypto', 'FreeNFT', 'Ethereum', 'ETC', 'Binance', 'Bitcoin']",1
+2021-09-30 23:56:59+00:00,1443726601968029703,2,3,11,['Bitcoin'],1
+2021-09-30 23:56:51+00:00,1443726568732311617,0,0,0,"['Airdrops', 'Bitcoin', 'AirdropDet', 'BNB', 'RococoSwap', 'BSC']",1
+2021-09-30 23:56:47+00:00,1443726549056831522,0,1,2,"['Airdrop', 'Airdrops', 'Airdropinspector', 'HECOChain', 'HECO', 'HuobiEcoChain', 'Taurus', 'TAR', 'Crypto', 'Bitcoin']",1
+2021-09-30 23:56:46+00:00,1443726545785401346,1,0,2,"['Bitcoin', 'Criptomonedas']",1
+2021-09-30 23:56:30+00:00,1443726479817281538,7,12,22,"['Nevergiveup', 'bitcoin']",1
+2021-09-30 23:56:29+00:00,1443726475090280460,3,0,3,"['btc', 'bitcoin', 'crypto']",1
+2021-09-30 23:56:27+00:00,1443726466542456834,0,0,0,"['BTC', 'BITCOIN', 'WHALEALERT', 'WATCHINWHALES']",1
+2021-09-30 23:56:22+00:00,1443726446279774209,0,0,0,['Bitcoin'],1
+2021-09-30 23:56:19+00:00,1443726434099470341,0,0,0,"['Bitcoin', 'stock2flow']",1
+2021-09-30 23:56:18+00:00,1443726428101492748,1,0,1,['Bitcoin'],1
+2021-09-30 23:56:11+00:00,1443726399643267077,1,0,4,['Bitcoin'],1
+2021-09-30 23:56:06+00:00,1443726379598561307,0,0,1,"['crypto', 'cryptocurrency', 'bitcoin', 'ethereum', 'dogecoin', 'coin', 'NFTs', 'doge']",1
+2021-09-30 23:56:05+00:00,1443726373042929665,0,0,0,['Bitcoin'],1
+2021-09-30 23:56:01+00:00,1443726358828535809,1,0,0,"['Binance', 'Bitcoin', 'Signals', 'Buy', 'BTCUSDT', 'BTC']",1
+2021-09-30 23:55:58+00:00,1443726346790780928,1,0,6,"['Bitcoin', 'CGCX', 'BTC', 'Crypto', 'Satoshi', 'Investments', 'BuyBitcoin']",1
+2021-09-30 23:55:54+00:00,1443726329044615170,0,0,2,"['Airdrop', 'Airdrops', 'Airdropinspector', 'HECOChain', 'HECO', 'HuobiEcoChain', 'Taurus', 'TAR', 'Crypto', 'Bitcoin']",1
+2021-09-30 23:55:53+00:00,1443726322845433857,0,0,0,"['Airdrop', 'Multipad', 'ido', 'BinanceSmartChain', 'BSC', 'PolkaSocial', 'PSN', 'Crypto', 'Bitcoin']",1
+2021-09-30 23:55:52+00:00,1443726318164590613,0,0,0,"['cryptocurrency', 'Airdrop', 'BSC', 'Bitcoin', 'ETH', 'Moonkart', 'MKART', 'Airdropstario']",1
+2021-09-30 23:55:43+00:00,1443726284241113088,0,0,2,['bitcoin'],1
+2021-09-30 23:55:42+00:00,1443726277035413504,0,0,0,['Bitcoin'],1
+2021-09-30 23:55:38+00:00,1443726260459524096,0,0,1,"['Bitcoin', 'دیلی']",1
+2021-09-30 23:55:15+00:00,1443726166150443009,0,0,0,['Bitcoin'],1
+2021-09-30 23:54:54+00:00,1443726075893202952,0,2,1,"['cryptocurrency', 'Bitcoin', 'Forex']",1
+2021-09-30 23:54:51+00:00,1443726066049171473,0,2,1,"['cryptocurrency', 'Bitcoin', 'Forex']",1
+2021-09-30 23:54:49+00:00,1443726056893005842,0,2,1,"['cryptocurrency', 'Bitcoin', 'Forex']",1
+2021-09-30 23:54:47+00:00,1443726047208357898,0,2,0,"['cryptocurrency', 'Bitcoin', 'Forex']",1
+2021-09-30 23:54:47+00:00,1443726047170732032,1,0,0,['Bitcoin'],1
+2021-09-30 23:54:46+00:00,1443726043462914056,0,1,2,"['Crypto', 'Bitcoin', 'Cardano', 'CNFT', 'CNFTCommunity', 'USA']",1
+2021-09-30 23:54:45+00:00,1443726039121862658,0,0,2,"['bitcoin', 'coinhuntworld', 'cryptocurrency']",1
+2021-09-30 23:54:45+00:00,1443726037150420994,0,2,0,"['cryptocurrency', 'Bitcoin', 'Forex']",1
+2021-09-30 23:54:42+00:00,1443726027516174343,3,6,9,"['Binance', 'BinanceSmartChain', 'Bitcoin', 'Ethereum', 'Crytpo', 'cryptocurrencies', 'cryptotrading', 'BSCGems', 'BSCGem', 'BSCNews', 'altcoin', 'altcoins']",1
+2021-09-30 23:54:40+00:00,1443726016384417827,0,2,0,"['cryptocurrency', 'Bitcoin', 'Forex']",1
+2021-09-30 23:54:37+00:00,1443726007593156630,0,2,0,"['cryptocurrency', 'Bitcoin', 'Forex']",1
+2021-09-30 23:54:35+00:00,1443725997837197313,0,2,1,"['cryptocurrency', 'Bitcoin', 'Forex']",1
+2021-09-30 23:54:33+00:00,1443725987556966400,0,2,1,"['cryptocurrency', 'Bitcoin', 'Forex']",1
+2021-09-30 23:54:30+00:00,1443725976987439110,0,0,0,"['ALICEUSDT', 'Binance', 'Signals', 'signals', 'referral', 'Bitcoin', 'Altcoins']",1
+2021-09-30 23:54:29+00:00,1443725973019582468,1,0,0,"['earnmoney', 'posting', 'promoting', 'bitcoin', 'dogecoin', 'affiliatemarketing', 'business', 'tools', 'programs']",1
+2021-09-30 23:54:28+00:00,1443725968494014465,0,0,1,['Bitcoin'],1
+2021-09-30 23:54:28+00:00,1443725966304583685,1,0,0,"['giftsforher', 'bitcoin', 'tumblr', 'twitter', 'facebook', 'instagram', 'dogecoin', 'socialmedia', 'tiktok', 'doge', 'deal', 'gift', 'gifts', 'giftideas', 'shop', 'shopping', 'affiliatemarketing', 'Cookies', 'GiftBaskets']",1
+2021-09-30 23:54:25+00:00,1443725955974012928,0,0,0,['Bitcoin'],1
+2021-09-30 23:54:25+00:00,1443725955604758534,1,0,0,['Bitcoin'],1
+2021-09-30 23:54:25+00:00,1443725955176939523,0,0,11,"['仮想通貨', 'Bitcoin', 'ビットコイン']",1
+2021-09-30 23:54:23+00:00,1443725948516552706,0,0,0,"['BTC', 'cryptocom', 'bitcoin']",1
+2021-09-30 23:54:17+00:00,1443725923275128833,0,0,0,"['Bitcoin', 'BTC']",1
+2021-09-30 23:54:17+00:00,1443725920091713537,1,0,0,"['linkedin', 'twitter', 'facebook', 'instagram', 'tiktok', 'socialmedia', 'tumblr', 'dogecoin', 'deal', 'gift', 'gifts', 'giftideas', 'giftsforhim', 'shop', 'shopping', 'affiliatemarketing', 'bitcoin', 'popcorn']",1
+2021-09-30 23:54:16+00:00,1443725916140675081,0,0,4,"['Airdrops', 'SIGNIN', 'Bitcoin', 'AirdropDet', 'NFT', 'BSC', 'crypto', 'Blockchain']",1
+2021-09-30 23:54:15+00:00,1443725913770938368,0,0,0,"['Bitcoin', 'blockchain']",1
+2021-09-30 23:54:15+00:00,1443725913208807425,1,0,0,"['athletics', 'athlete', 'athletes', 'affiliatemarketing', 'affiliate', 'referral', 'cashback', 'crypto', 'shopping', 'travel', 'business', 'dogecoin', 'bitcoin']",1
+2021-09-30 23:54:15+00:00,1443725912869154821,1,0,0,"['tumblr', 'twitter', 'facebook', 'instagram', 'dogecoin', 'socialmedia', 'pinterest', 'doge', 'deal', 'gift', 'gifts', 'giftideas', 'giftsforhim', 'shop', 'shopping', 'affiliatemarketing', 'bitcoin', 'freeshipping', 'Amazon']",1
+2021-09-30 23:54:14+00:00,1443725907470925829,0,0,0,"['Airdrop', 'Airdrops', 'Airdropinspector', 'BinanceSmartChain', 'BSC', 'StarWarsCat', 'SWCAT', 'Crypto', 'Bitcoin']",1
+2021-09-30 23:54:06+00:00,1443725877020221440,1,0,5,"['bitcoin', 'MLM']",1
+2021-09-30 23:54:05+00:00,1443725872255717383,0,0,0,"['Bitcoin', 'BTC', 'Criptomonedas']",1
+2021-09-30 23:53:55+00:00,1443725830870364167,0,0,0,"['Bitcoin', 'BTC']",1
+2021-09-30 23:53:52+00:00,1443725814722400260,0,0,0,['Bitcoin'],1
+2021-09-30 23:53:46+00:00,1443725792417091584,0,0,0,['Bitcoin'],1
+2021-09-30 23:53:46+00:00,1443725789636096002,0,1,1,"['tradethestructure', 'ASX', 'SPI200', 'dow', 'nikkei', 'Bitcoin', 'Ethereum']",1
+2021-09-30 23:53:45+00:00,1443725786326863874,0,0,0,['bitcoin'],1
+2021-09-30 23:53:41+00:00,1443725772464668693,0,0,2,"['bitcoin', 'ビットコイン']",1
+2021-09-30 23:53:41+00:00,1443725769499287553,0,0,1,"['ONYX', '暗号通貨', '仮想通貨', 'デビッドカード', 'ビットコイン', 'Bitcoin']",1
+2021-09-30 23:53:37+00:00,1443725755079438339,0,0,2,"['Bitcoin', 'AutoCrypto', 'crypto', 'cryptocurrecy', 'BNB', 'ToTheMoon', 'BSC', 'BSCGem', 'GEM', 'altcoin', 'token']",1
+2021-09-30 23:53:31+00:00,1443725729594626048,0,2,7,"['nft', 'nftart', 'art', 'digitalart', 'cryptoart', 'nftartist', 'crypto', 'nfts', 'eth', 'ethereum', 'nftcommunity', 'nftcollector', 'blockchain', 'cryptocurrency', 'bitcoin', 'artist', 'opensea', 'contemporaryart', 'cryptoartist', 'artwork', 'meme', 'nftcollectors']",1
+2021-09-30 23:53:29+00:00,1443725719247495173,0,3,4,['Bitcoin'],1
+2021-09-30 23:53:28+00:00,1443725716194004992,10,8,15,"['ChronicYield', 'NFT', 'ChronicGold', 'Chronic', 'bitcoin', 'progress', 'greenhouse', 'crystalhead', 'vodka', 'england', 'graffiti', 'nft']",1
+2021-09-30 23:53:26+00:00,1443725708468105219,0,0,0,"['cryptoexchange', 'bounty', 'bitcoin']",1
+2021-09-30 23:53:21+00:00,1443725686842212355,0,0,0,['bitcoin'],1
+2021-09-30 23:53:21+00:00,1443725685856608256,1,0,3,['bitcoin'],1
+2021-09-30 23:53:20+00:00,1443725682782060551,0,0,0,['Bitcoin'],1
+2021-09-30 23:53:17+00:00,1443725671751041025,0,0,1,['Bitcoin'],1
+2021-09-30 23:53:16+00:00,1443725665413570562,0,0,0,"['Bitcoin', 'Bitcoin']",1
+2021-09-30 23:53:15+00:00,1443725659596017671,0,0,2,['Bitcoin'],1
+2021-09-30 23:53:14+00:00,1443725657637330945,1,0,2,['Bitcoin'],1
+2021-09-30 23:53:11+00:00,1443725644433707011,0,0,0,"['BTC', 'BITCOIN', 'WHALEALERT', 'WATCHINWHALES']",1
+2021-09-30 23:53:06+00:00,1443725624619806723,0,0,1,"['crypto', 'btc', 'cryptocurrency', 'bitcoin']",1
+2021-09-30 23:53:05+00:00,1443725620022632448,0,0,0,"['BTC', 'Bitcoin']",1
+2021-09-30 23:53:01+00:00,1443725602515738624,0,0,0,"['EUM', 'EUMWallet', 'Crypto', 'bitcoin']",1
+2021-09-30 23:53:01+00:00,1443725601618083875,0,0,0,"['Bitcoin', 'ビットコイン', '自動売買']",1
+2021-09-30 23:53:00+00:00,1443725600678559767,0,0,1,"['Bitcoin', 'ビットコイン', '自動売買']",1
+2021-09-30 23:52:58+00:00,1443725589484015616,0,0,0,"['bullrun', 'Bitcoin']",1
+2021-09-30 23:52:54+00:00,1443725572878729218,0,0,0,"['cryptotwitter', 'CryptocurrencyNews', 'Bitcoin', 'altcoin']",1
+2021-09-30 23:52:50+00:00,1443725555304697856,2,3,8,"['bitcoin', 'blockchain', 'crypto', 'cryptofuture', 'rotharium', 'Vienna']",1
+2021-09-30 23:52:46+00:00,1443725540117004302,0,0,0,['bitcoin'],1
+2021-09-30 23:52:42+00:00,1443725523457351681,0,0,5,"['nft', 'bnb', 'Ethereum', 'Bitcoin', 'avax', 'solana', 'front', 'dogecoin', 'tomo', 'omg', 'rainbowtoken', 'shiba', 'NFTGiveaway', 'doge', 'alice', 'hot', 'sushi', 'ankr', 'enj', 'ata', 'mask', 'ltc', 'chz']",1
+2021-09-30 23:52:41+00:00,1443725520412282881,0,0,0,"['Bitcoin', 'hotmama']",1
+2021-09-30 23:52:40+00:00,1443725513462276097,0,0,0,['bitcoin'],1
+2021-09-30 23:52:38+00:00,1443725507262963712,1,0,0,"['Bitcoin', 'Ethereum']",1
+2021-09-30 23:52:38+00:00,1443725504696107024,73,53,903,['Bitcoin'],1
+2021-09-30 23:52:27+00:00,1443725458953150465,0,0,0,"['Bitcoin', 'Crypto']",1
+2021-09-30 23:52:23+00:00,1443725443929186308,1,0,5,['Bitcoin'],1
+2021-09-30 23:52:22+00:00,1443725440594558998,2,4,6,"['PEEPS', 'CNN', 'altcoin', 'bitcoin', 'cryptocurrency', 'blockchain', 'crypto', 'ethereum', 'btc', 'altcoins', 'hodl', 'binance', 'cryptonews', 'cryptocurrencies', 'PEEPScoin', 'PEEPSarmy']",1
+2021-09-30 23:52:21+00:00,1443725436572344324,1,0,0,"['Bitcoin', 'AutoCrypto', 'crypto', 'cryptocurrecy', 'BNB', 'ToTheMoon', 'BSC', 'BSCGem', 'GEM', 'altcoin', 'token']",1
+2021-09-30 23:52:18+00:00,1443725422357852164,0,0,0,['bitcoin'],1
+2021-09-30 23:52:10+00:00,1443725389365329920,1,3,5,"['PEEPS', 'CNN', 'altcoin', 'bitcoin', 'cryptocurrency', 'blockchain', 'crypto', 'ethereum', 'btc', 'altcoins', 'hodl', 'binance', 'cryptonews', 'cryptocurrencies', 'PEEPScoin', 'PEEPSarmy']",1
+2021-09-30 23:52:03+00:00,1443725359640420352,0,0,0,['Bitcoin'],1
+2021-09-30 23:52:00+00:00,1443725345572601877,2,5,7,"['PEEPS', 'CNN', 'altcoin', 'bitcoin', 'cryptocurrency', 'blockchain', 'crypto', 'ethereum', 'btc', 'altcoins', 'hodl', 'binance', 'cryptonews', 'cryptocurrencies', 'PEEPScoin', 'PEEPSarmy']",1
+2021-09-30 23:51:59+00:00,1443725341688668160,0,0,0,"['NFTs', 'cryptocurrency', 'crypto', 'FreeNFT', 'Ethereum', 'ETC', 'Binance', 'Bitcoin']",1
+2021-09-30 23:51:58+00:00,1443725339205586944,0,0,3,['bitcoin'],1
+2021-09-30 23:51:56+00:00,1443725329005174793,0,0,0,"['Bitcoin', 'BTC']",1
+2021-09-30 23:51:55+00:00,1443725324089536514,0,0,0,"['Binance', 'Bitcoin', 'Signals', 'Sell', 'IOTXUSDT', 'IOTX']",1
+2021-09-30 23:51:52+00:00,1443725312542584832,0,0,1,"['Jaguars', 'Bengals', 'Bitcoin']",1
+2021-09-30 23:51:46+00:00,1443725286277853184,12,0,53,"['BTC', 'USD', 'Bitcoin']",1
+2021-09-30 23:51:33+00:00,1443725235031875586,2,1,16,['bitcoin'],1
+2021-09-30 23:51:33+00:00,1443725232238473217,0,0,1,"['Bitcoin', 'Crypto', 'pandemic', 'BlueStateSwitch']",1
+2021-09-30 23:51:31+00:00,1443725225187856390,0,0,0,['bitcoin'],1
+2021-09-30 23:51:27+00:00,1443725207257194505,1,0,0,"['linkedin', 'twitter', 'facebook', 'instagram', 'tiktok', 'socialmedia', 'tumblr', 'dogecoin', 'deal', 'gift', 'gifts', 'giftsforhim', 'giftideas', 'shop', 'shopping', 'affiliatemarketing', 'bitcoin', 'popcorn']",1
+2021-09-30 23:51:26+00:00,1443725206116347905,0,0,0,['Bitcoin'],1
+2021-09-30 23:51:26+00:00,1443725205105520640,0,0,0,['Bitcoin'],1
+2021-09-30 23:51:25+00:00,1443725201468964865,1,0,0,"['tumblr', 'twitter', 'facebook', 'instagram', 'dogecoin', 'socialmedia', 'pinterest', 'doge', 'deal', 'gift', 'gifts', 'giftsforhim', 'giftideas', 'shop', 'shopping', 'affiliatemarketing', 'bitcoin', 'freeshipping', 'Amazon']",1
+2021-09-30 23:51:23+00:00,1443725193571078144,1,1,0,"['EmailMarketing', 'InfluencerMarketing', 'freelance', 'contentmarketing', 'Sales', 'affiliatemarketing', 'affiliate', 'referral', 'cashback', 'crypto', 'shopping', 'travel', 'business', 'dogecoin', 'bitcoin']",1
+2021-09-30 23:51:21+00:00,1443725181449560069,0,0,0,['Bitcoin'],1
+2021-09-30 23:51:14+00:00,1443725152781418521,1,0,1,"['Bitcoin', 'BTC', 'ETH', 'XRP', 'Cryptocurrency']",1
+2021-09-30 23:51:12+00:00,1443725144078405632,0,0,0,['bitcoin'],1
+2021-09-30 23:51:11+00:00,1443725142555774977,0,0,0,['bitcoin'],1
+2021-09-30 23:51:07+00:00,1443725126533537794,0,0,1,"['Bitcoin', 'BTC']",1
+2021-09-30 23:51:06+00:00,1443725119021584390,1,14,83,"['Litecoin', 'Bitcoin', 'FOMO']",1
+2021-09-30 23:51:03+00:00,1443725109613809664,0,1,0,"['Bitcoin', 'BlockchainHueState', 'BlockHight', 'HexColor', '510dca', 'concretecrypto', 'concreteart', 'art', 'crypto', 'colorfortwitter']",1
+2021-09-30 23:51:03+00:00,1443725108506398721,1,0,0,"['Bitcoin', 'Golds']",1
+2021-09-30 23:51:03+00:00,1443725107428564994,0,0,1,"['btc', 'bitcoin', 'dakika']",1
+2021-09-30 23:51:02+00:00,1443725104685322247,0,0,0,"['bitcoin', 'tictoknextblock']",1
+2021-09-30 23:51:02+00:00,1443725103087423488,0,0,2,"['funny', 'memesdaily', 'Memes', 'humor', 'Crypto', 'Bitcoin', 'cryptocurrency']",1
+2021-09-30 23:51:00+00:00,1443725096359796737,1,1,1,"['bitcoin', 'binance', 'btc', 'bnb', 'ethereum', 'ADA', 'cardano', 'polkadot', 'xrp', 'trx', 'tron', 'coinbase', 'elonmusk', 'tesla', 'spacex', 'trading', 'forex']",1
+2021-09-30 23:50:56+00:00,1443725078814871552,0,0,0,"['CryptoNews', 'Bitcoin', 'Crypto']",1
+2021-09-30 23:50:53+00:00,1443725064705167362,0,0,1,"['cryptoscammeer', 'Coinbase', 'moonpay', 'theydontcareaboutus', 'fuckingscammers', 'cryptocurrencies', 'crypto', 'Bitcoin']",1
+2021-09-30 23:50:48+00:00,1443725045340254210,0,1,1,"['Ethereum', 'Cardano', 'Bitcoin']",1
+2021-09-30 23:50:43+00:00,1443725023785672706,0,0,0,['bitcoin'],1
+2021-09-30 23:50:42+00:00,1443725021164212225,0,0,1,"['Bitcoin', 'BTC']",1
+2021-09-30 23:50:38+00:00,1443725001044029441,0,0,6,"['USA', 'crypto', 'blockchain', 'bullish', 'cryptocurrencies', 'Bitcoin', 'btc', 'Ethereum', 'cryptocurrency', 'Binance', 'EQIFI', 'EQX', 'Verasity', 'VRA']",1
+2021-09-30 23:50:37+00:00,1443724997315469312,0,0,0,['Bitcoin'],1
+2021-09-30 23:50:35+00:00,1443724991703527430,1,0,1,"['Bitcoin', 'Ethiopia']",1
+2021-09-30 23:50:32+00:00,1443724975928750080,0,0,0,"['Binance', 'Bitcoin', 'Signals', 'Sell', 'COMPUSDT', 'COMP']",1
+2021-09-30 23:50:27+00:00,1443724957624774661,0,0,2,['Bitcoin'],1
+2021-09-30 23:50:25+00:00,1443724946887356417,0,0,1,['Bitcoin'],1
+2021-09-30 23:50:24+00:00,1443724944903323655,0,0,0,"['Airdrops', 'Bitcoin', 'AirdropDet', 'crypto', 'Blockchain', 'NextToken']",1
+2021-09-30 23:50:22+00:00,1443724935050969090,2,0,4,"['bitcoin', 'btc']",1
+2021-09-30 23:50:20+00:00,1443724929426464771,0,1,0,"['bitcoin', 'altcoin', 'LightningNetWork', 'cryptoexchange']",1
+2021-09-30 23:50:16+00:00,1443724909704724487,0,0,1,"['MegaBSCFinance', 'MegaBSC', 'MEG', 'blockchain', 'cryptocurrency', 'technology', 'bitcoin', 'money', 'crypto', 'Binance', 'BNB', 'cryptocurrencies', 'fintech']",1
+2021-09-30 23:50:02+00:00,1443724850753949702,1,0,0,"['Bitcoin', 'canada', 'cryptocurrency']",1
+2021-09-30 23:50:01+00:00,1443724849617281026,1,0,1,"['bitcoinprice', 'cryptocurrency', 'bitcoin']",1
+2021-09-30 23:49:57+00:00,1443724829086126083,2,0,13,"['Bitcoin', 'China', 'FederalReserve']",1
+2021-09-30 23:49:55+00:00,1443724823264313368,0,0,0,"['Bitcoin', 'BTC']",1
+2021-09-30 23:49:46+00:00,1443724783045292036,0,2,4,"['bitcoin', 'btc', 'hodl', 'ToTheMoon']",1
+2021-09-30 23:49:38+00:00,1443724750992334851,0,0,0,"['bitcoin', 'criptomonedas']",1
+2021-09-30 23:49:38+00:00,1443724750291968002,0,0,1,"['bnb', 'bitcoin', 'freecoin', 'free', 'bnb']",1
+2021-09-30 23:49:37+00:00,1443724749134184453,0,0,0,"['Airdrop', 'Airdrops', 'Airdropinspector', 'Polygen', 'USDT', 'BSC', 'Crypto', 'Bitcoin']",1
+2021-09-30 23:49:36+00:00,1443724745074098186,0,0,1,"['Bitcoin', 'VIX']",1
+2021-09-30 23:49:35+00:00,1443724740783263748,0,0,0,"['Doge', 'Slinky', 'SlinkyDoge', 'blockchain', 'cryptocurrency', 'technology', 'bitcoin', 'money', 'crypto', 'Binance', 'BNB', 'cryptocurrencies', 'NFT', 'gamefi', 'defi', 'gem', 'BSC', 'passiveincome']",1
+2021-09-30 23:49:29+00:00,1443724714367766530,0,0,1,['Bitcoin'],1
+2021-09-30 23:49:08+00:00,1443724627633754116,1,1,8,['bitcoin'],1
+2021-09-30 23:49:06+00:00,1443724616636121090,0,0,3,['Bitcoin'],1
+2021-09-30 23:49:00+00:00,1443724593018150913,0,0,0,"['Bitcoin', 'cryptocurrency']",1
+2021-09-30 23:48:58+00:00,1443724585120120862,0,0,0,['Bitcoin'],1
+2021-09-30 23:48:49+00:00,1443724546108952576,1,0,0,"['Bitcoin', 'Crypto', 'HODL']",1
+2021-09-30 23:48:48+00:00,1443724542690664456,0,0,0,['Bitcoin'],1
+2021-09-30 23:48:43+00:00,1443724521106780161,1,2,4,"['Bitcoin', 'OnceNoticias']",1
+2021-09-30 23:48:40+00:00,1443724509442449410,0,0,0,['bitcoin'],1
+2021-09-30 23:48:40+00:00,1443724507538083844,0,0,0,['BITCOIN'],1
+2021-09-30 23:48:38+00:00,1443724497958359044,0,0,3,"['litentry', 'lıt', 'btc', 'Bitcoin']",1
+2021-09-30 23:48:30+00:00,1443724467524575232,1,0,1,"['Bitcoin', 'Ethereum']",1
+2021-09-30 23:48:28+00:00,1443724457848229889,0,0,0,"['shoppingtime', 'linkedin', 'twitter', 'facebook', 'instagram', 'dogecoin', 'socialmedia', 'pinterest', 'doge', 'deal', 'gift', 'gifts', 'giftideas', 'shop', 'shopping', 'affiliatemarketing', 'bitcoin', 'Amazon']",1
+2021-09-30 23:48:23+00:00,1443724437325553676,1,0,0,"['giftsforher', 'bitcoin', 'tumblr', 'twitter', 'facebook', 'instagram', 'dogecoin', 'socialmedia', 'tiktok', 'doge', 'deal', 'gift', 'gifts', 'giftideas', 'shop', 'shopping', 'affiliatemarketing', 'drizly', 'drinks', 'Beer', 'wine', 'liquor']",1
+2021-09-30 23:48:21+00:00,1443724429247275013,0,0,0,"['tumblr', 'twitter', 'facebook', 'instagram', 'dogecoin', 'socialmedia', 'pinterest', 'doge', 'deal', 'gift', 'giftsforhim', 'gifts', 'giftideas', 'shop', 'shopping', 'affiliatemarketing', 'bitcoin', 'freeshipping', 'Amazon']",1
+2021-09-30 23:48:21+00:00,1443724429180219392,0,0,0,"['bitcoins', 'bitcoinmining', 'bitcoincash', 'crypto', 'cryptocurrency', 'bitcoin', 'affiliatemarketing', 'affiliate', 'referral', 'cashback', 'crypto', 'shopping', 'travel', 'business', 'dogecoin', 'bitcoin']",1
+2021-09-30 23:48:21+00:00,1443724428592963588,0,0,0,"['linkedin', 'twitter', 'facebook', 'instagram', 'tiktok', 'socialmedia', 'tumblr', 'dogecoin', 'deal', 'gift', 'giftsforhim', 'gifts', 'giftideas', 'shop', 'shopping', 'affiliatemarketing', 'bitcoin', 'popcorn']",1
+2021-09-30 23:48:20+00:00,1443724424109338628,0,0,0,"['Bitcoin', 'btc', 'mining', 'cryptocurrencies']",1
+2021-09-30 23:48:16+00:00,1443724408103768068,1,13,87,['bitcoin'],1
+2021-09-30 23:48:13+00:00,1443724395193774081,0,0,0,['Bitcoin'],1
+2021-09-30 23:48:13+00:00,1443724395097178126,2,4,11,"['cryptocurrency', 'crypto', 'btc', 'bitcoin']",1
+2021-09-30 23:48:12+00:00,1443724390559068168,0,1,3,['Bitcoin'],1
+2021-09-30 23:48:11+00:00,1443724388566802435,1,0,4,"['Bitcoin', 'btc', 'Crypto']",1
+2021-09-30 23:48:09+00:00,1443724377099538432,0,0,0,"['Solana', 'Bitcoin']",1
+2021-09-30 23:48:08+00:00,1443724374331179016,0,0,0,"['Doge', 'Slinky', 'SlinkyDoge', 'blockchain', 'cryptocurrency', 'technology', 'bitcoin', 'money', 'crypto', 'Binance', 'BNB', 'cryptocurrencies', 'NFT', 'gamefi', 'defi', 'gem', 'BSC', 'passiveincome']",1
+2021-09-30 23:48:04+00:00,1443724357965131779,0,0,0,"['Bitcoin', 'USDollar']",1
+2021-09-30 23:47:56+00:00,1443724324477808642,0,0,0,['Bitcoin'],1
+2021-09-30 23:47:55+00:00,1443724319993970704,0,0,0,"['Bitcoin', 'BTC']",1
+2021-09-30 23:47:48+00:00,1443724289526714370,1,0,1,['bitcoin'],1
+2021-09-30 23:47:47+00:00,1443724286519230471,1,0,0,"['Bitcoin', 'btc', 'Blockchain', 'crypto', 'Ethereum', 'eth', '比特币']",1
+2021-09-30 23:47:39+00:00,1443724251417219079,0,0,1,"['bitcoin', 'trading', 'InvestidorModerno']",1
+2021-09-30 23:47:36+00:00,1443724240658837521,0,0,0,"['Airdrops', 'Bitcoin', 'AirdropDet', 'BNB', 'RococoSwap', 'BSC']",1
+2021-09-30 23:47:30+00:00,1443724212582092803,2,0,3,['bitcoin'],1
+2021-09-30 23:47:26+00:00,1443724198707281927,7,6,20,"['Bitcoin', 'BrennensBlessings']",1
+2021-09-30 23:47:26+00:00,1443724196480094208,0,0,4,"['bitcoin', 'coinhuntworld', 'cryptocurrency']",1
+2021-09-30 23:47:25+00:00,1443724194966028288,0,0,1,['Bitcoin'],1
+2021-09-30 23:47:23+00:00,1443724185755394048,0,0,0,"['bitcoin', 'crypto', 'cryptocurrency']",1
+2021-09-30 23:47:22+00:00,1443724179010985986,0,0,0,"['Airdrop', 'Airdrops', 'Airdropinspector', 'BinanceSmartChain', 'BSC', 'StarWarsCat', 'SWCAT', 'Crypto', 'Bitcoin']",1
+2021-09-30 23:47:11+00:00,1443724136652722179,0,0,0,"['btc', 'Bitcoin', 'galagames', 'gala', 'altcoin', 'galacoin', 'eth', 'binance', 'up', 'pump', 'spy', 'snp', 'b3']",1
+2021-09-30 23:47:10+00:00,1443724129824382977,0,0,0,['bitcoin'],1
+2021-09-30 23:47:09+00:00,1443724126200475649,0,0,0,"['Trading', 'bitcoin']",1
+2021-09-30 23:47:04+00:00,1443724104276787208,0,2,0,"['Bitcoin', 'BlockchainHueState', 'BlockHight', 'HexColor', '2839b9', 'concretecrypto', 'concreteart', 'art', 'crypto', 'colorfortwitter']",1
+2021-09-30 23:47:03+00:00,1443724100854288390,1,1,5,"['Bitcoin', 'ETH', 'Dogecoin', 'Crypto', 'CryptoFixesThis', 'Innovation', 'Freedom']",1
+2021-09-30 23:47:03+00:00,1443724099381968899,0,1,0,"['bitcoin', 'tictoknextblock']",1
+2021-09-30 23:47:02+00:00,1443724095619665920,0,0,1,"['Airdrop', 'Airdrops', 'airdropinspector', 'BinanceSmartChain', 'BSC', 'StarWarsCat', 'SWCAT', 'Crypto', 'Bitcoin']",1
+2021-09-30 23:47:00+00:00,1443724087856140289,0,1,5,"['bitcoin', 'coinhuntworld', 'cryptocurrency']",1
+2021-09-30 23:46:59+00:00,1443724082931982336,0,0,1,['Bitcoin'],1
+2021-09-30 23:46:51+00:00,1443724050560270343,0,0,0,"['Airdrops', 'Bitcoin', 'AirdropDet', 'BNB', 'RococoSwap', 'BSC']",1
+2021-09-30 23:46:49+00:00,1443724040556908546,0,0,0,"['ALICEUSDT', 'Binance', 'Signals', 'signals', 'referral', 'Bitcoin', 'Altcoins']",1
+2021-09-30 23:46:48+00:00,1443724037457264673,0,0,0,['bitcoin'],1
+2021-09-30 23:46:46+00:00,1443724031874588674,0,0,6,"['Bitcoin', 'Litecoin']",1
+2021-09-30 23:46:46+00:00,1443724029882290178,1,0,0,['bitcoin'],1
+2021-09-30 23:46:42+00:00,1443724012576821255,1,0,0,"['crypto', 'cryptocurrency', 'blockchain', 'bitcoin', 'ethereum', 'antifud', 'fightfomo']",1
+2021-09-30 23:46:38+00:00,1443723996466352130,0,0,0,['Bitcoin'],1
+2021-09-30 23:46:27+00:00,1443723950236733442,0,0,1,"['Bitcoin', 'BTC']",1
+2021-09-30 23:46:23+00:00,1443723933308567554,1,0,0,['bitcoin'],1
+2021-09-30 23:46:21+00:00,1443723924206862348,1,0,4,['Bitcoin'],1
+2021-09-30 23:46:16+00:00,1443723904212774916,1,0,0,['Bitcoin'],1
+2021-09-30 23:46:08+00:00,1443723868905029634,0,0,6,"['binance', 'crypto', 'bitcoin', 'cryptoalerts', 'cointrendz']",1
+2021-09-30 23:46:06+00:00,1443723861812412417,0,0,0,['Bitcoin'],1
+2021-09-30 23:46:06+00:00,1443723861682360322,1,0,1,"['cryptocurrecy', 'Crypto', 'FreeNFT', 'Ethereum', 'ETC', 'Binance', 'Bitcoin']",1
+2021-09-30 23:46:03+00:00,1443723850483650563,0,0,0,['Bitcoin'],1
+2021-09-30 23:46:03+00:00,1443723849606983680,0,0,0,"['bitcoin', 'tictoknextblock']",1
+2021-09-30 23:46:03+00:00,1443723849137336327,0,0,4,['Bitcoin'],1
+2021-09-30 23:46:02+00:00,1443723847061196802,0,1,0,"['Bitcoin', 'BlockchainHueState', 'BlockHight', 'HexColor', 'd02bf7', 'concretecrypto', 'concreteart', 'art', 'crypto', 'colorfortwitter']",1
+2021-09-30 23:45:58+00:00,1443723827087699968,0,0,0,"['Airdrops', 'Bitcoin', 'AirdropDet', 'BNB', 'RococoSwap', 'BSC']",1
+2021-09-30 23:45:55+00:00,1443723816224505869,0,0,0,"['Bitcoin', 'BTC']",1
+2021-09-30 23:45:52+00:00,1443723803721408513,1,0,1,"['Noah_HQ', 'NFT', 'Bitcoin', 'LightningNetwork']",1
+2021-09-30 23:45:48+00:00,1443723788584210447,0,0,3,['bitcoin'],1
+2021-09-30 23:45:37+00:00,1443723741142339587,0,0,0,['Bitcoin'],1
+2021-09-30 23:45:32+00:00,1443723718203691008,0,0,0,"['giftsforher', 'bitcoin', 'tumblr', 'twitter', 'facebook', 'instagram', 'dogecoin', 'socialmedia', 'tiktok', 'doge', 'deal', 'gift', 'gifts', 'giftideas', 'shop', 'shopping', 'affiliatemarketing', 'cooking', 'homecooking']",1
+2021-09-30 23:45:24+00:00,1443723685735583749,0,0,0,"['tumblr', 'twitter', 'facebook', 'instagram', 'dogecoin', 'socialmedia', 'pinterest', 'doge', 'deal', 'giftsforhim', 'gift', 'gifts', 'giftideas', 'shop', 'shopping', 'affiliatemarketing', 'bitcoin', 'freeshipping', 'Amazon']",1
+2021-09-30 23:45:24+00:00,1443723685026844672,0,0,0,"['linkedin', 'twitter', 'facebook', 'instagram', 'tiktok', 'socialmedia', 'tumblr', 'dogecoin', 'deal', 'giftsforhim', 'gift', 'gifts', 'giftideas', 'shop', 'shopping', 'affiliatemarketing', 'bitcoin', 'popcorn']",1
+2021-09-30 23:45:24+00:00,1443723684032692226,0,0,0,"['jobsearch', 'secondincome', 'income', 'affiliatemarketing', 'affiliate', 'referral', 'cashback', 'crypto', 'shopping', 'travel', 'business', 'dogecoin', 'bitcoin']",1
+2021-09-30 23:45:18+00:00,1443723659579957248,0,0,1,['Bitcoin'],1
+2021-09-30 23:45:15+00:00,1443723649668759553,0,0,0,"['etherium', 'Bitcoin']",1
+2021-09-30 23:45:02+00:00,1443723594442461186,0,0,0,['Bitcoin'],1
+2021-09-30 23:45:01+00:00,1443723591569248256,0,0,0,['Bitcoin'],1
+2021-09-30 23:45:01+00:00,1443723588981465096,0,0,2,"['bitcoin', 'pizza']",1
+2021-09-30 23:45:01+00:00,1443723588868128768,0,0,1,['Bitcoin'],1
+2021-09-30 23:44:59+00:00,1443723582018924544,0,0,0,['Bitcoin'],1
+2021-09-30 23:44:57+00:00,1443723573206532105,1,0,0,"['revenue', 'revenuecoin', 'bnb', 'bitcoin']",1
+2021-09-30 23:44:52+00:00,1443723552348426241,3,4,10,"['Bitcoin', 'btc', 'Ethereum', 'Crypto']",1
+2021-09-30 23:44:49+00:00,1443723540717576194,0,0,1,"['Bitcoin', 'crypto']",1
+2021-09-30 23:44:44+00:00,1443723519217516549,0,1,3,"['bitcoin', 'cryptocurrency', 'crypto']",1
+2021-09-30 23:44:42+00:00,1443723508614250503,0,0,1,['bitcoin'],1
+2021-09-30 23:44:40+00:00,1443723500812845081,1,0,0,"['Bitcoin', 'elsalvadorbitcoin', 'Europe', 'Australia', 'SouthAmerica', 'TRON', 'Africa', 'BitcoinGold', 'ZCoins', 'Ethereum', 'SouthAfrica', 'Asia', 'Welcome']",1
+2021-09-30 23:44:40+00:00,1443723500368375809,0,0,0,['Bitcoin'],1
+2021-09-30 23:44:38+00:00,1443723491627479048,0,0,0,"['Binance', 'Bitcoin', 'Signals', 'Sell', 'RAYUSDT', 'RAY']",1
+2021-09-30 23:44:32+00:00,1443723467078131712,0,0,0,"['Bitcoin', 'Securitize']",1
+2021-09-30 23:44:28+00:00,1443723449181089792,2,10,18,"['dogecoin', 'DogeGF', 'XRP', 'shibainu', 'DogeEnergy', 'Memes', 'Memecoins', 'cryptocurrencies', 'follow', 'Trending', 'cryptoartist', 'BILLIONAIRE', 'Bitcoin', 'BB23', 'Bitcoin', 'btc', 'DogeGF', 'DogeCoinTo1Dollar', 'ETH', 'Ethereum', 'market', 'ElonMusk', 'LetsGo', 'HODL']",1
+2021-09-30 23:44:22+00:00,1443723425315540996,1,2,3,"['Don0t', 'arepaasesina', 'Bitcoin']",1
+2021-09-30 23:44:21+00:00,1443723421226094598,0,0,0,['bitcoin'],1
+2021-09-30 23:44:16+00:00,1443723400543887361,0,0,0,"['BTC', 'BITCOIN', 'WHALEALERT', 'WATCHINWHALES']",1
+2021-09-30 23:44:14+00:00,1443723392377630720,12,20,108,['Bitcoin'],1
+2021-09-30 23:44:13+00:00,1443723387268968450,1,0,2,"['BillionaireDoctor', 'cryptotwitter', 'DogBountyHunter', 'Musk', 'PTI20', 'MukeshAmbani', 'BitcoinCash', 'Bitcoin', 'Ethereum']",1
+2021-09-30 23:44:03+00:00,1443723347942989826,1,0,1,"['Airdrop', 'BSC', 'cryptocurrency', 'DeFi', 'NFT', 'bitcoin', 'RCOS']",1
+2021-09-30 23:44:00+00:00,1443723335548878857,0,0,3,['bitcoin'],1
+2021-09-30 23:43:57+00:00,1443723322211061761,3,1,3,"['NFT', 'Bitcoin', 'Crypto', 'boxing', 'OpenSea', 'ETH', 'art', 'cryptoartist']",1
+2021-09-30 23:43:55+00:00,1443723312245325831,0,0,0,"['Bitcoin', 'BTC']",1
+2021-09-30 23:43:54+00:00,1443723307816296453,0,0,1,['Bitcoin'],1
+2021-09-30 23:43:47+00:00,1443723279793995786,0,0,0,['bitcoin'],1
+2021-09-30 23:43:45+00:00,1443723271959195655,0,0,1,"['Bitcoin', 'DeNada']",1
+2021-09-30 23:43:36+00:00,1443723231719043074,0,0,2,"['inflacion', 'fiat', 'Bitcoin', 'BTC']",1
+2021-09-30 23:43:31+00:00,1443723212420890625,0,0,1,"['億り人', 'Bitcoin', 'ビットコイン', '仮想通貨', 'Binance', 'バイナンス']",1
+2021-09-30 23:43:30+00:00,1443723207727517698,1,1,0,"['blockchain', 'cryptocurrency', 'tech', 'crypto', 'bitcoin']",1
+2021-09-30 23:43:28+00:00,1443723199338983427,0,0,0,"['nucypher', 'nu', 'bitcoin', 'btc', 'alts', 'alt', 'altcoin', 'altcoins', 'bullish']",1
+2021-09-30 23:43:11+00:00,1443723126349737985,1,1,3,"['Bitcoin', 'bitcoio', 'CreptoMoedas']",1
+2021-09-30 23:43:06+00:00,1443723108263895046,1,0,5,['Bitcoin'],1
+2021-09-30 23:43:06+00:00,1443723107726868495,0,0,0,"['Bitcoin', 'GALA']",1
+2021-09-30 23:43:03+00:00,1443723095211184128,0,0,2,"['grt', 'thegraph', 'btc', 'altcoins', 'altcoin', 'alts', 'alt', 'bullish', 'bitcoin']",1
+2021-09-30 23:43:02+00:00,1443723089079046146,0,7,27,"['Bitcoin', 'Criptomonedas']",1
+2021-09-30 23:43:02+00:00,1443723088508633089,0,0,0,['Bitcoin'],1
+2021-09-30 23:42:45+00:00,1443723017234915329,0,0,0,['Bitcoin'],1
+2021-09-30 23:42:38+00:00,1443722990341042180,0,0,0,"['CryptocurrencyNews', 'Bitcoin']",1
+2021-09-30 23:42:36+00:00,1443722979326640133,0,0,0,"['Airdrops', 'Bitcoin', 'AirdropDet', 'BNB', 'RococoSwap', 'BSC']",1
+2021-09-30 23:42:34+00:00,1443722971361812480,0,0,0,['Bitcoin'],1
+2021-09-30 23:42:32+00:00,1443722966165082113,1,3,7,['Bitcoin'],1
+2021-09-30 23:42:25+00:00,1443722937186623491,0,0,1,['bitcoin'],1
+2021-09-30 23:42:24+00:00,1443722931272572930,1,0,0,"['giftsforher', 'bitcoin', 'tumblr', 'twitter', 'facebook', 'instagram', 'dogecoin', 'socialmedia', 'tiktok', 'doge', 'deal', 'gift', 'gifts', 'giftideas', 'shop', 'shopping', 'affiliatemarketing', 'savemoney', 'airportparking']",1
+2021-09-30 23:42:24+00:00,1443722930542690308,1,0,0,['Bitcoin'],1
+2021-09-30 23:42:23+00:00,1443722927535443971,0,0,1,"['Bitcoin', 'criptomonedas']",1
+2021-09-30 23:42:16+00:00,1443722897730818057,0,0,1,"['iexec', 'rlc', 'bitcoin', 'btc', 'altcoins', 'altcoin', 'alts', 'alt', 'bullish']",1
+2021-09-30 23:42:14+00:00,1443722888201359363,1,0,0,"['linkedin', 'twitter', 'facebook', 'instagram', 'tiktok', 'socialmedia', 'pinterest', 'dogecoin', 'reddit', 'gift', 'gifts', 'discountoffer', 'giftideas', 'shop', 'shopping', 'affiliatemarketing', 'bitcoin', 'flowers', 'gifts']",1
+2021-09-30 23:42:14+00:00,1443722888138444800,1,0,0,"['linkedin', 'twitter', 'facebook', 'instagram', 'tiktok', 'socialmedia', 'tumblr', 'dogecoin', 'giftsforhim', 'deal', 'gift', 'gifts', 'giftideas', 'shop', 'shopping', 'affiliatemarketing', 'bitcoin', 'popcorn']",1
+2021-09-30 23:42:14+00:00,1443722887425245186,0,0,0,['Bitcoin'],1
+2021-09-30 23:42:13+00:00,1443722885114236930,1,1,0,"['finance', 'finacialfreedom', 'Investing', 'iwealth', 'affiliatemarketing', 'affiliate', 'referral', 'cashback', 'crypto', 'shopping', 'travel', 'business', 'dogecoin', 'bitcoin']",1
+2021-09-30 23:42:13+00:00,1443722883814105091,1,0,0,"['tumblr', 'twitter', 'facebook', 'instagram', 'dogecoin', 'socialmedia', 'pinterest', 'doge', 'giftsforhim', 'deal', 'gift', 'gifts', 'giftideas', 'shop', 'shopping', 'affiliatemarketing', 'bitcoin', 'freeshipping', 'Amazon']",1
+2021-09-30 23:42:04+00:00,1443722848242122758,0,1,0,"['Bitcoin', 'BlockchainHueState', 'BlockHight', 'HexColor', '38a7fb', 'concretecrypto', 'concreteart', 'art', 'crypto', 'colorfortwitter']",1
+2021-09-30 23:42:04+00:00,1443722845146648576,0,0,1,"['bitcoin', 'tictoknextblock']",1
+2021-09-30 23:42:03+00:00,1443722843959689219,0,0,0,"['Taikun', 'taikuntesla', 'taikunglobaltoken', 'BSC', 'smartcontracts', 'Bitcoin']",1
+2021-09-30 23:42:03+00:00,1443722843888361473,1,0,0,"['KeyFundFinance', 'KeyFund', 'KEY', 'blockchain', 'cryptocurrency', 'technology', 'bitcoin', 'money', 'crypto', 'Binance', 'BNB', 'cryptocurrencies', 'fintech']",1
+2021-09-30 23:42:02+00:00,1443722839492898816,0,0,0,"['Bitcoin', 'Crypto']",1
+2021-09-30 23:41:55+00:00,1443722808366809099,0,0,0,"['Bitcoin', 'BTC']",1
+2021-09-30 23:41:50+00:00,1443722787038773257,0,0,0,"['BTC', 'BITCOIN']",1
+2021-09-30 23:41:43+00:00,1443722760207798274,0,0,2,"['crypto', 'Bitcoin', 'bitcoinmining']",1
+2021-09-30 23:41:40+00:00,1443722744714174464,18,22,268,['Bitcoin'],1
+2021-09-30 23:41:39+00:00,1443722742461779972,0,1,3,"['Bitcoin', 'Crypto']",1
+2021-09-30 23:41:35+00:00,1443722724938031105,0,0,0,['Bitcoin'],1
+2021-09-30 23:41:34+00:00,1443722721985187840,0,0,1,"['fet', 'fetchai', 'altcoin', 'altcoins', 'alts', 'alt', 'bitcoin', 'btc', 'bullish']",1
+2021-09-30 23:41:31+00:00,1443722707682697221,0,0,0,"['Bitcoin', 'Ethereum', 'Crypto', 'cryptocurrency', 'Giveaways', 'CoinMarketCap', 'Airdrops', 'Airdropinspector', 'AirdropCrypto', 'Binance', 'BinanceSmartChain']",1
+2021-09-30 23:41:25+00:00,1443722683963752465,0,0,0,['Bitcoin'],1
+2021-09-30 23:41:18+00:00,1443722653290799104,0,0,0,"['Airdrop', 'Airdrops', 'Airdropinspector', 'NFracTion', 'USDT', 'Crypto', 'Bitcoin']",1
+2021-09-30 23:41:13+00:00,1443722631992201223,0,0,0,"['Bitcoin', 'Bitcoin']",1
+2021-09-30 23:41:11+00:00,1443722626791247873,1,0,4,"['bitcoin', 'btc', 'wdgann']",1
+2021-09-30 23:41:07+00:00,1443722609577889795,0,0,0,['bitcoin'],1
+2021-09-30 23:41:06+00:00,1443722603127087108,0,0,0,"['shibarmy', 'shib', 'bitcoin', 'doge', 'cryptocurrency', 'Crypto', 'forex', 'digitalassets', 'cryptotwitter', 'stockmarkets', 'stonks', 'stonkycrypto', 'charts', 'retailbruddaz', 'google', 'shibainucoin', 'fastbear504', 'stockmarket', 'shibtosaturn', 'tosaturn']",1
+2021-09-30 23:41:05+00:00,1443722601101094914,0,0,0,"['Airdrop', 'Airdrops', 'Airdropinspector', 'NFracTion', 'USDT', 'Crypto', 'Bitcoin']",1
+2021-09-30 23:41:04+00:00,1443722594067234829,0,0,0,['Bitcoin'],1
+2021-09-30 23:41:02+00:00,1443722587859738628,0,0,0,"['Binance', 'Bitcoin', 'Signals', 'Sell', 'OCEANUSDT', 'OCEAN']",1
+2021-09-30 23:41:01+00:00,1443722581299785728,0,1,0,"['FollowMe', 'FollowBack', 'Bitcoin', 'ICO', 'Bou']",1
+2021-09-30 23:40:57+00:00,1443722565273403397,1,0,2,"['novabear', 'Crypto', 'NFT', 'token', 'cryptocurrency', 'Bitcoin', 'bitcoinmining', 'blockchain', 'BNB', 'Ethereum', 'trading', 'coin', 'cryptomining', 'wallet', 'bitcointrading', 'staking', 'cryptonews', 'cryptocurrencies', 'vr']",1
+2021-09-30 23:40:56+00:00,1443722563343958021,1,0,1,"['MegaBSC', 'MEG', 'blockchain', 'cryptocurrency', 'technology', 'bitcoin', 'money', 'crypto', 'Binance', 'BNB', 'cryptocurrencies', 'fintech']",1
+2021-09-30 23:40:56+00:00,1443722563155288071,0,0,1,['bitcoin'],1
+2021-09-30 23:40:54+00:00,1443722554334711810,0,0,0,"['CryptoTownEU', 'Airdrop', 'BNB', 'Bitcoin']",1
+2021-09-30 23:40:52+00:00,1443722544360611850,0,0,0,['Bitcoin'],1
+2021-09-30 23:40:51+00:00,1443722540879392770,0,0,0,['Bitcoin'],1
+2021-09-30 23:40:47+00:00,1443722523305254916,1,0,3,"['bitcoin', 'crypto', 'blockchain', 'trading', 'investment', 'Bitcoin']",1
+2021-09-30 23:40:47+00:00,1443722522999013380,1,0,0,"['Airdrops', 'SIGNIN', 'Bitcoin', 'AirdropDet', 'NFT', 'BSC', 'crypto', 'Blockchain']",1
+2021-09-30 23:40:40+00:00,1443722496415608833,0,0,2,"['NFT', 'crytocurrency', 'crypto', 'FreeNFT', 'Ethereum', 'ETC', 'Binance', 'Bitcoin']",1
+2021-09-30 23:40:38+00:00,1443722486135332870,0,0,3,"['Defi', 'NFT', 'crypto', 'Bitcoin']",1
+2021-09-30 23:40:37+00:00,1443722483438338051,0,0,1,['Bitcoin'],1
+2021-09-30 23:40:36+00:00,1443722476152819712,0,0,1,"['shibarmy', 'shib', 'bitcoin', 'doge', 'cryptocurrency', 'Crypto', 'forex', 'digitalassets', 'cryptotwitter', 'stockmarkets', 'stonks', 'stonkycrypto', 'charts', 'retailbruddaz', 'google', 'shibainucoin', 'fastbear504', 'stockmarket', 'shibtosaturn', 'tosaturn']",1
+2021-09-30 23:40:31+00:00,1443722457672736771,0,0,0,['Bitcoin'],1
+2021-09-30 23:40:30+00:00,1443722453000212481,0,0,5,"['bitcoin', 'lightningnetwork']",1
+2021-09-30 23:40:23+00:00,1443722422419660803,0,0,0,['bitcoin'],1
+2021-09-30 23:40:20+00:00,1443722409195024384,0,0,1,['Bitcoin'],1
+2021-09-30 23:40:17+00:00,1443722398956720130,0,0,0,['Bitcoin'],1
+2021-09-30 23:40:14+00:00,1443722386717609984,0,0,3,['Bitcoin'],1
+2021-09-30 23:40:12+00:00,1443722378287144963,1,1,2,"['Crypto', 'Bitcoin', 'Ethereum', 'Cardano', 'CNFTCommunity', 'blockchain']",1
+2021-09-30 23:40:09+00:00,1443722364475228162,0,0,5,"['bitcoin', 'crypto']",1
+2021-09-30 23:40:02+00:00,1443722333441728513,0,0,1,"['bitcoinprice', 'cryptocurrency', 'bitcoin']",1
+2021-09-30 23:40:00+00:00,1443722327599030274,0,0,0,['BITCOIN'],1
+2021-09-30 23:40:00+00:00,1443722327179497472,0,0,0,['Bitcoin'],1
+2021-09-30 23:40:00+00:00,1443722326797787136,0,0,0,"['Bitcoin', 'ビットコイン', '自動売買']",1
+2021-09-30 23:40:00+00:00,1443722325975724032,0,0,0,['Bitcoin'],1
+2021-09-30 23:40:00+00:00,1443722325858275333,0,0,0,"['Bitcoin', 'ビットコイン', '自動売買']",1
+2021-09-30 23:39:59+00:00,1443722321945104384,0,0,0,['Bitcoin'],1
+2021-09-30 23:39:55+00:00,1443722304899325952,0,0,0,"['Bitcoin', 'BTC']",1
+2021-09-30 23:39:54+00:00,1443722302676357123,0,0,2,['Bitcoin'],1
+2021-09-30 23:39:54+00:00,1443722301455880195,0,0,0,['Bitcoin'],1
+2021-09-30 23:39:52+00:00,1443722291607703555,0,0,0,['Bitcoin'],1
+2021-09-30 23:39:50+00:00,1443722287153246212,0,0,0,['Bitcoin'],1
+2021-09-30 23:39:46+00:00,1443722269021384704,0,0,1,['Bitcoin'],1
+2021-09-30 23:39:43+00:00,1443722257583456259,47,3,30,"['Bitcoin', 'BTC', 'ADA', 'ETH', 'XRP', 'DASH', 'DOT', 'SOL', 'BNB']",1
+2021-09-30 23:39:40+00:00,1443722242341416960,1,0,0,"['Btc', 'Bitcoin']",1
+2021-09-30 23:39:38+00:00,1443722236662329346,1,1,0,"['linkedin', 'twitter', 'facebook', 'instagram', 'bitcoin', 'socialmedia', 'pinterest', 'dogecoin', 'reddit', 'gift', 'gifts', 'giftideas', 'shop', 'shoppingaddict', 'shopping', 'affiliatemarketing', 'drizly', 'drinks', 'Beer', 'wine', 'liquor']",1
+2021-09-30 23:39:37+00:00,1443722228970016768,0,0,0,['Bitcoin'],1
+2021-09-30 23:39:35+00:00,1443722222594510848,0,0,0,"['BTC', 'BITCOIN']",1
+2021-09-30 23:39:31+00:00,1443722206811340801,1,7,10,['Bitcoin'],1
+2021-09-30 23:39:31+00:00,1443722206299795461,1,1,0,"['linkedin', 'twitter', 'facebook', 'instagram', 'tiktok', 'socialmedia', 'tumblr', 'giftsforhim', 'dogecoin', 'deal', 'gift', 'gifts', 'giftideas', 'shop', 'shopping', 'affiliatemarketing', 'bitcoin', 'popcorn']",1
+2021-09-30 23:39:30+00:00,1443722203145584644,1,1,0,"['tumblr', 'twitter', 'facebook', 'instagram', 'dogecoin', 'socialmedia', 'pinterest', 'giftsforhim', 'doge', 'deal', 'gift', 'gifts', 'giftideas', 'shop', 'shopping', 'affiliatemarketing', 'bitcoin', 'freeshipping', 'Amazon']",1
+2021-09-30 23:39:26+00:00,1443722183310823424,0,0,2,['bitcoin'],1
+2021-09-30 23:39:21+00:00,1443722162402050061,0,4,4,['Bitcoin'],1
+2021-09-30 23:39:20+00:00,1443722161273835523,0,0,7,['Bitcoin'],1
+2021-09-30 23:39:10+00:00,1443722118160691201,135,11,228,['bitcoin'],1
+2021-09-30 23:39:08+00:00,1443722108689866755,0,0,2,['Bitcoin'],1
+2021-09-30 23:39:08+00:00,1443722108392165378,0,0,0,"['Binance', 'Bitcoin', 'Signals', 'Sell', 'XTZUSDT', 'XTZ']",1
+2021-09-30 23:39:06+00:00,1443722102108999683,0,0,5,"['bitcoin', 'bitcoin']",1
+2021-09-30 23:39:02+00:00,1443722084132261897,1,0,0,['bitcoin'],1
+2021-09-30 23:39:00+00:00,1443722075819032615,0,0,3,"['Bitcoin', 'crypto']",1
+2021-09-30 23:38:50+00:00,1443722034555539456,0,0,2,"['Bitcoin', 'Bitcoin']",1
+2021-09-30 23:38:48+00:00,1443722025663619072,0,0,0,['Bitcoin'],1
+2021-09-30 23:38:42+00:00,1443721998862102535,0,0,0,"['Chz', 'btc', 'Solana', 'Ethereum', 'XECUSDT', 'dogecoin', 'BNB', 'Bitcoin', 'Holocoin', 'win']",1
+2021-09-30 23:38:41+00:00,1443721995732992022,0,0,1,"['Airdrop', 'Airdrops', 'BinanceSmartChain', 'BSC', 'LordToken', 'LTT', 'Crypto', 'Bitcoin']",1
+2021-09-30 23:38:38+00:00,1443721984832122881,4,17,100,"['btc', 'bitcoin']",1
+2021-09-30 23:38:38+00:00,1443721982193778692,0,0,1,"['Walleteum', 'EUM', 'EUMWallet', 'Crypto', 'bitcoin']",1
+2021-09-30 23:38:14+00:00,1443721882058965001,0,0,0,"['Ethereum', 'Bitcoin', 'eth', 'airdrop']",1
+2021-09-30 23:38:11+00:00,1443721869102919684,1,0,1,['Bitcoin'],1
+2021-09-30 23:38:09+00:00,1443721860735123475,2,0,1,"['KeyFundFinance', 'KeyFund', 'KEY', 'blockchain', 'cryptocurrency', 'technology', 'bitcoin', 'money', 'crypto', 'Binance', 'BNB', 'cryptocurrencies', 'fintech']",1
+2021-09-30 23:38:03+00:00,1443721837721104384,0,0,0,['Bitcoin'],1
+2021-09-30 23:37:57+00:00,1443721811179577345,0,0,0,"['bitcoin', 'PhiloBot']",1
+2021-09-30 23:37:55+00:00,1443721801025011715,0,0,0,"['Bitcoin', 'BTC']",1
+2021-09-30 23:37:53+00:00,1443721792607203333,8,0,9,['Bitcoin'],1
+2021-09-30 23:37:51+00:00,1443721786248605696,0,0,2,"['bitcoin', 'node', 'bitcoin', 'node', 'data', 'redundancy', 'iscsi', 'target', 'raid', 'das', 'usb', 'satoshin']",1
+2021-09-30 23:37:45+00:00,1443721761783226371,0,0,1,['Bitcoin'],1
+2021-09-30 23:37:42+00:00,1443721750206889985,1,0,4,"['eth', 'ethereum', 'bitcoin', 'nft', 'nftart', 'nfts', 'pixelart', 'pixel', 'pixelartist', 'cryptopixelart', 'nftcollector', 'zombie', 'zombies', 'nftzombie', 'nftzombies', 'nftart', 'nftartists', 'cryptoart', 'cryptopixelart', 'cryptopixels', 'coolestnft', 'nftcommunity', 'opensea', 'openseanft']",1
+2021-09-30 23:37:39+00:00,1443721733798834177,1,0,0,"['bitcoin', 'btc', 'crypto', 'cryptonews', 'etherium', 'eth', 'blockchain', 'blockchainNews']",1
+2021-09-30 23:37:37+00:00,1443721729126318084,0,0,0,['Bitcoin'],1
+2021-09-30 23:37:33+00:00,1443721708972740610,2,0,1,"['crypto', 'bitcoin', 'AxieInfinity']",1
+2021-09-30 23:37:31+00:00,1443721700491857922,1,23,25,"['MXS', 'cryptonews', 'crypto', 'Ethereum', '100xcoin', 'MyUniverseMV', 'bitcoin']",1
+2021-09-30 23:37:30+00:00,1443721699808190468,9,0,11,['Bitcoin'],1
+2021-09-30 23:37:25+00:00,1443721675128799232,0,0,0,"['Remitano', 'btc', 'Bitcoin']",1
+2021-09-30 23:37:23+00:00,1443721667310600211,0,0,1,"['BTC', 'Bitcoin', 'ビットコイン']",1
+2021-09-30 23:37:15+00:00,1443721635316609025,0,0,1,['Bitcoin'],1
+2021-09-30 23:37:14+00:00,1443721629662593025,0,0,9,"['Crypto', 'DeFi', 'Bitcoin']",1
+2021-09-30 23:37:12+00:00,1443721622968360964,0,0,1,['Bitcoin'],1
+2021-09-30 23:37:06+00:00,1443721599019008002,0,0,0,"['Bitcoin', 'Cryptocurrency', 'Crypto']",1
+2021-09-30 23:36:54+00:00,1443721547642904579,0,0,0,['Bitcoin'],1
+2021-09-30 23:36:44+00:00,1443721503925805061,0,0,0,"['bitcoin', 'iridium', 'crypto', 'memestonks', 'india', 'dogecoin']",1
+2021-09-30 23:36:36+00:00,1443721470358822915,1,0,1,"['bitcoin', 'blockchain', 'btc', 'crypto', 'cryptocurrency', 'price', 'ethereum', 'ico', 'trading', 'trade', 'eth', 'market', 'cryptocurrencymarket', 'altcoin']",1
+2021-09-30 23:36:33+00:00,1443721460082622476,1,2,8,"['Bitcoin', 'India', 'BTC', 'cryptocurrencies']",1
+2021-09-30 23:36:31+00:00,1443721449890619397,2,0,1,['Bitcoin'],1
+2021-09-30 23:36:29+00:00,1443721441057259528,1,0,1,['bitcoin'],1
+2021-09-30 23:36:26+00:00,1443721429921370114,0,0,0,['Bitcoin'],1
+2021-09-30 23:36:24+00:00,1443721422707245056,15,37,376,"['VET', 'Bitcoin']",1
+2021-09-30 23:36:24+00:00,1443721421184770048,0,0,0,"['Bitcoin', 'BTC']",1
+2021-09-30 23:36:22+00:00,1443721412108173319,1,0,0,"['Bitcoin', 'BTC', 'ETH', 'XRP', 'Crypto']",1
+2021-09-30 23:36:21+00:00,1443721409973395458,1,0,0,"['linkedin', 'twitter', 'facebook', 'instagram', 'tiktok', 'socialmedia', 'giftsforhim', 'tumblr', 'dogecoin', 'deal', 'gift', 'gifts', 'giftideas', 'shop', 'shopping', 'affiliatemarketing', 'bitcoin', 'popcorn']",1
+2021-09-30 23:36:21+00:00,1443721408689868801,1,0,0,"['anniversary', 'bitcoin', 'tumblr', 'twitter', 'facebook', 'instagram', 'dogecoin', 'socialmedia', 'tiktok', 'doge', 'deal', 'gift', 'gifts', 'giftideas', 'shop', 'shopping', 'affiliatemarketing', 'amazon', 'Onlineshopping']",1
+2021-09-30 23:36:21+00:00,1443721406857060352,1,0,0,"['tumblr', 'twitter', 'facebook', 'instagram', 'dogecoin', 'socialmedia', 'giftsforhim', 'pinterest', 'doge', 'deal', 'gift', 'gifts', 'giftideas', 'shop', 'shopping', 'affiliatemarketing', 'bitcoin', 'freeshipping', 'Amazon']",1
+2021-09-30 23:36:20+00:00,1443721405208702979,0,0,0,"['Bitcoin', 'WATCH']",1
+2021-09-30 23:36:20+00:00,1443721403203719172,1,0,0,"['twitter', 'facebook', 'instagram', 'linkedin', 'tiktok', 'socialmedia', 'affiliatemarketing', 'affiliate', 'referral', 'cashback', 'crypto', 'shopping', 'travel', 'business', 'dogecoin', 'bitcoin']",1
+2021-09-30 23:36:16+00:00,1443721388452454402,2,1,4,['Bitcoin'],1
+2021-09-30 23:36:13+00:00,1443721374359490560,0,0,0,"['Airdrop', 'Airdrops', 'Airdropinspector', 'BinanceSmartChain', 'BSC', 'PolkaSocial', 'PSN', 'Crypto', 'Bitcoin']",1
+2021-09-30 23:36:09+00:00,1443721357381050369,1,0,2,"['chiliz', 'chz', 'bitcoin', 'btc', 'avax', 'solana', 'aave', 'bemorethanafan', 'fantoken']",1
+2021-09-30 23:36:09+00:00,1443721357326524421,1,5,6,"['Bitcoin', 'ElSalvador', 'BTC', 'Honduras', 'Guatemala', 'Ecuador', 'Panama']",1
+2021-09-30 23:36:08+00:00,1443721352058482693,0,0,0,['Bitcoin'],1
+2021-09-30 23:36:07+00:00,1443721349084561432,1,0,1,"['KeyFundFinance', 'KeyFund', 'KEY', 'blockchain', 'cryptocurrency', 'technology', 'bitcoin', 'money', 'crypto', 'BNB', 'cryptocurrencies', 'fintech']",1
+2021-09-30 23:36:07+00:00,1443721348690419712,1,1,18,['bitcoin'],1
+2021-09-30 23:36:05+00:00,1443721339530055681,0,0,1,['Bitcoin'],1
+2021-09-30 23:36:03+00:00,1443721333645381638,9,1,7,['bitcoin'],1
+2021-09-30 23:36:00+00:00,1443721319372238850,0,0,0,"['Bitcoin', 'Litecoin', 'Crypto', 'BitcoinCash', 'fiat', 'Australia', 'France', 'Canada']",1
+2021-09-30 23:35:59+00:00,1443721314804670467,0,0,0,"['Bitcoin', 'inversion']",1
+2021-09-30 23:35:57+00:00,1443721308173438978,0,0,0,['Bitcoin'],1
+2021-09-30 23:35:55+00:00,1443721297616257035,0,0,0,"['Bitcoin', 'BTC']",1
+2021-09-30 23:35:49+00:00,1443721274388148224,0,0,0,['Bitcoin'],1
+2021-09-30 23:35:46+00:00,1443721262329516033,2,0,1,"['PULSECHAIN', 'PULSE', 'HEX', 'PayMeInBitcoin', 'Bitcoin']",1
+2021-09-30 23:35:44+00:00,1443721253676728329,1,0,1,"['PULSECHAIN', 'PULSE', 'HEX', 'PayMeInBitcoin', 'Bitcoin']",1
+2021-09-30 23:35:42+00:00,1443721246085165063,0,0,1,"['Bitcoin', 'BTC']",1
+2021-09-30 23:35:42+00:00,1443721244965146626,1,0,1,"['RICHARDHEART', 'JACKMALLERS', 'BTC', 'ETH', 'PULSECHAIN', 'PULSE', 'HEX', 'PayMeInBitcoin', 'Bitcoin']",1
+2021-09-30 23:35:40+00:00,1443721236320645120,2,0,1,"['shorts', 'PULSECHAIN', 'PULSE', 'HEX', 'PayMeInBitcoin', 'Bitcoin']",1
+2021-09-30 23:35:39+00:00,1443721231925067800,0,0,1,"['PULSECHAIN', 'PULSE', 'HEX', 'PayMeInBitcoin', 'Bitcoin']",1
+2021-09-30 23:35:37+00:00,1443721223037337618,0,0,1,"['PULSECHAIN', 'PULSE', 'HEX', 'PayMeInBitcoin', 'Bitcoin']",1
+2021-09-30 23:35:35+00:00,1443721214782947341,0,0,1,"['PULSECHAIN', 'PULSE', 'HEX', 'PayMeInBitcoin', 'Bitcoin']",1
+2021-09-30 23:35:35+00:00,1443721214669819909,0,0,0,['Bitcoin'],1
+2021-09-30 23:35:34+00:00,1443721210580320256,0,0,2,"['btc', 'bitcoin', 'cryptocurrency', 'ethereum', '仮想通貨', 'ビットコイン', '日経平均', 'リップル', 'ドル', 'xrp', 'crypto', '暗号通貨', 'ripple', 'dontstopwontstop', 'blockchain']",1
+2021-09-30 23:35:33+00:00,1443721207451471876,0,0,2,"['btc', 'bitcoin', 'cryptocurrency', 'ethereum', '仮想通貨', 'ビットコイン', '日経平均', 'リップル', 'ドル', 'xrp', 'crypto', '暗号通貨', 'ripple', 'dontstopwontstop', 'blockchain']",1
+2021-09-30 23:35:33+00:00,1443721206180450304,1,0,1,"['PULSECHAIN', 'PULSE', 'HEX', 'PayMeInBitcoin', 'Bitcoin']",1
+2021-09-30 23:35:21+00:00,1443721157681815556,0,0,0,"['bitcoin', 'elpreciodelbtc', 'criptomonedas']",1
+2021-09-30 23:35:19+00:00,1443721147523153920,6,0,64,['Bitcoin'],1
+2021-09-30 23:35:16+00:00,1443721136328609793,2,0,11,['Bitcoin'],1
+2021-09-30 23:35:10+00:00,1443721110726529028,1,0,1,['Bitcoin'],1
+2021-09-30 23:35:07+00:00,1443721098663694337,0,0,0,"['betfurysuccess', 'bitcoin', 'staking']",1
+2021-09-30 23:34:59+00:00,1443721062949142549,0,0,0,"['hashtag', 'bitcoin', 'crypto']",1
+2021-09-30 23:34:57+00:00,1443721057744011267,1,0,0,"['liberty', 'Bitcoin']",1
+2021-09-30 23:34:57+00:00,1443721055181357063,0,0,0,"['Bitcoin', 'Ethereum', 'Crypto']",1
+2021-09-30 23:34:56+00:00,1443721051364544514,1,1,1,"['Bitcoin', 'Bitcoin', 'Bitcoin']",1
+2021-09-30 23:34:55+00:00,1443721047572992000,0,0,0,"['Binance', 'Bitcoin', 'Signals', 'Sell', 'IOTXUSDT', 'IOTX']",1
+2021-09-30 23:34:49+00:00,1443721022960648202,0,0,0,['BITCOIN'],1
+2021-09-30 23:34:47+00:00,1443721015603965958,0,0,1,"['Bitcoin', 'XRPL']",1
+2021-09-30 23:34:46+00:00,1443721011736690690,0,0,0,['bitcoin'],1
+2021-09-30 23:34:36+00:00,1443720966388035584,2,1,19,"['bitcoin', 'ew', 'bitfinex']",1
+2021-09-30 23:34:34+00:00,1443720961275187202,0,0,0,['Bitcoin'],1
+2021-09-30 23:34:33+00:00,1443720957563133952,0,0,0,"['Mine', 'Bitcoin', 'Hashing24']",1
+2021-09-30 23:34:23+00:00,1443720914240262152,0,0,0,['BITCOIN'],1
+2021-09-30 23:34:18+00:00,1443720894342303744,0,0,0,"['revenue', 'revenuecoin', 'bnb', 'bitcoin']",1
+2021-09-30 23:34:17+00:00,1443720888789061633,0,0,2,"['Airdrop', 'Airdrops', 'BinanceSmartChain', 'BSC', 'LordToken', 'LTT', 'Crypto', 'Bitcoin']",1
+2021-09-30 23:34:11+00:00,1443720864785002500,0,0,1,"['KeyFundFinance', 'KeyFund', 'KEY', 'blockchain', 'cryptocurrency', 'technology', 'bitcoin', 'money', 'crypto', 'Binance', 'BNB', 'cryptocurrencies', 'fintech']",1
+2021-09-30 23:34:09+00:00,1443720853208842240,0,0,0,"['bitcoin', 'cryptotrading']",1
+2021-09-30 23:34:05+00:00,1443720837006249995,1,0,5,['Bitcoin'],1
+2021-09-30 23:34:02+00:00,1443720826046582785,1,0,0,"['Binance', 'Bitcoin', 'Signals', 'Sell', 'LINKUSDT', 'LINK']",1
+2021-09-30 23:33:59+00:00,1443720814323539976,0,2,17,['Bitcoin'],1
+2021-09-30 23:33:57+00:00,1443720803837624321,0,0,0,['bitcoin'],1
+2021-09-30 23:33:55+00:00,1443720797156171776,0,2,1,"['NFTs', 'nftcollectors', 'painting', 'creative', 'sketching', 'arts_gallery', 'abstract', 'draw', 'sketch', 'art', 'artistic', 'gallery', 'abstract', 'crypto', 'bitcoin', 'btc', 'eth', 'BNB', 'animation', 'nft']",1
+2021-09-30 23:33:54+00:00,1443720793981169672,1,0,8,['Bitcoin'],1
+2021-09-30 23:33:54+00:00,1443720793922281473,0,0,0,"['Bitcoin', 'BTC']",1
+2021-09-30 23:33:52+00:00,1443720785412120579,0,0,0,"['crypto', 'blockchain', 'news', 'bitcoin', 'btc', 'ethereum', 'eth', 'ripple', 'xrp', 'cardano', 'ada', 'litecoin', 'ltc', 'eos', 'xlm', 'trx', 'dash', 'iota', 'vet']",1
+2021-09-30 23:33:46+00:00,1443720760187555843,0,0,0,['Bitcoin'],1
+2021-09-30 23:33:44+00:00,1443720750209245186,2,3,12,['Bitcoin'],1
+2021-09-30 23:33:40+00:00,1443720734715494413,0,1,1,"['Airdrop', 'Trickledrip', 'Crypto', 'DeFi', 'Blickchain', 'BSC', 'ETH', 'Bitcoin']",1
+2021-09-30 23:33:39+00:00,1443720728336031752,0,0,0,['Bitcoin'],1
