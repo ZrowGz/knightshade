@@ -64,13 +64,18 @@ Datetime,Tweet ID,Replies,Retweets,Likes,Hashtags,Tweets
 2021-09-30 23:56:19+00:00,1443726434099470341,0,0,0,"['Bitcoin', 'stock2flow']",1
 2021-09-30 23:56:18+00:00,1443726428101492748,1,0,1,['Bitcoin'],1
 2021-09-30 23:56:11+00:00,1443726399643267077,1,0,4,['Bitcoin'],1
+2021-09-30 23:56:07+00:00,1443726384875061248,0,0,1,"['dogecoin', 'bitcoin', 'news', 'dogecointothemoon', 'dogearmy']",1
 2021-09-30 23:56:06+00:00,1443726379598561307,0,0,1,"['crypto', 'cryptocurrency', 'bitcoin', 'ethereum', 'dogecoin', 'coin', 'NFTs', 'doge']",1
 2021-09-30 23:56:05+00:00,1443726373042929665,0,0,0,['Bitcoin'],1
+2021-09-30 23:56:04+00:00,1443726371663003650,0,0,0,"['dogecoin', 'bitcoin', 'news', 'dogecointothemoon', 'dogearmy']",1
 2021-09-30 23:56:01+00:00,1443726358828535809,1,0,0,"['Binance', 'Bitcoin', 'Signals', 'Buy', 'BTCUSDT', 'BTC']",1
+2021-09-30 23:56:00+00:00,1443726354248347648,0,0,0,"['dogecoin', 'bitcoin', 'news', 'dogecointothemoon', 'dogearmy']",1
 2021-09-30 23:55:58+00:00,1443726346790780928,1,0,6,"['Bitcoin', 'CGCX', 'BTC', 'Crypto', 'Satoshi', 'Investments', 'BuyBitcoin']",1
+2021-09-30 23:55:56+00:00,1443726337034932225,0,0,0,"['dogecoin', 'bitcoin', 'news', 'dogecointothemoon', 'dogearmy']",1
 2021-09-30 23:55:54+00:00,1443726329044615170,0,0,2,"['Airdrop', 'Airdrops', 'Airdropinspector', 'HECOChain', 'HECO', 'HuobiEcoChain', 'Taurus', 'TAR', 'Crypto', 'Bitcoin']",1
 2021-09-30 23:55:53+00:00,1443726322845433857,0,0,0,"['Airdrop', 'Multipad', 'ido', 'BinanceSmartChain', 'BSC', 'PolkaSocial', 'PSN', 'Crypto', 'Bitcoin']",1
 2021-09-30 23:55:52+00:00,1443726318164590613,0,0,0,"['cryptocurrency', 'Airdrop', 'BSC', 'Bitcoin', 'ETH', 'Moonkart', 'MKART', 'Airdropstario']",1
+2021-09-30 23:55:50+00:00,1443726311407689733,0,0,0,"['dogecoin', 'bitcoin', 'news', 'dogecointothemoon', 'dogearmy']",1
 2021-09-30 23:55:43+00:00,1443726284241113088,0,0,2,['bitcoin'],1
 2021-09-30 23:55:42+00:00,1443726277035413504,0,0,0,['Bitcoin'],1
 2021-09-30 23:55:38+00:00,1443726260459524096,0,0,1,"['Bitcoin', 'دیلی']",1
@@ -95,8 +100,3 @@ Datetime,Tweet ID,Replies,Retweets,Likes,Hashtags,Tweets
 2021-09-30 23:54:25+00:00,1443725955974012928,0,0,0,['Bitcoin'],1
 2021-09-30 23:54:25+00:00,1443725955604758534,1,0,0,['Bitcoin'],1
 2021-09-30 23:54:25+00:00,1443725955176939523,0,0,11,"['仮想通貨', 'Bitcoin', 'ビットコイン']",1
-2021-09-30 23:54:23+00:00,1443725948516552706,0,0,0,"['BTC', 'cryptocom', 'bitcoin']",1
-2021-09-30 23:54:17+00:00,1443725923275128833,0,0,0,"['Bitcoin', 'BTC']",1
-2021-09-30 23:54:17+00:00,1443725920091713537,1,0,0,"['linkedin', 'twitter', 'facebook', 'instagram', 'tiktok', 'socialmedia', 'tumblr', 'dogecoin', 'deal', 'gift', 'gifts', 'giftideas', 'giftsforhim', 'shop', 'shopping', 'affiliatemarketing', 'bitcoin', 'popcorn']",1
-2021-09-30 23:54:16+00:00,1443725916140675081,0,0,4,"['Airdrops', 'SIGNIN', 'Bitcoin', 'AirdropDet', 'NFT', 'BSC', 'crypto', 'Blockchain']",1
-2021-09-30 23:54:15+00:00,1443725913770938368,0,0,0,"['Bitcoin', 'blockchain']",1
