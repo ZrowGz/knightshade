@@ -70,7 +70,7 @@ Running the data visualizations will use our condensed data as a demonstration. 
 
 The data was collected in Python and exported to .csv files.  Visualizations were then created and analysis were done using Tableau Public Desktop 2021.3 and published up to Lisa's Tableau Public Profile
 
-[LinktoPublicTweetAnalysisWorkbook] (https://public.tableau.com/views/Knightshade/BitcoinPriceTweetCountDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Link to Public Tweet Analysis Workbook](https://public.tableau.com/views/Knightshade/BitcoinPriceTweetCountDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ---
 
