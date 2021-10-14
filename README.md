@@ -66,6 +66,14 @@ Running the data visualizations will use our condensed data as a demonstration. 
 
 ---
 
+## Tableau Data Visualizations
+
+The data was collected in Python and exported to .csv files.  Visualizations were then created and analysis were done using Tableau Public Desktop 2021.3 and published up to Lisa's Tableau Public Profile
+
+![Link to Public Tweet Analysis Workbook] (https://public.tableau.com/views/Knightshade/BitcoinPriceTweetCountDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+---
+
 ## DISCLAIMERS
 
 Additionally, the `analysis.md` file is a static file and is strictly our interpretation of the results from this project. None of this is financial advice. Do not use our data to place trades. Do not get rugged. Do your own research. Get a hardware wallet and backup your seedphrase in a secure, non-digital manner. **NEVER SHARE YOUR SEED PHRASE WITH ANYONE, EVER, END OF STORY**
